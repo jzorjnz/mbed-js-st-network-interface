@@ -1,0 +1,26 @@
+{
+  "name": "mbed-js-st-network-interface",
+  "version": "1.0.0",
+  "description": " Network Interface library wrappers for Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-zeeshan/mbed-js-st-network-interface.git"
+  },
+  "keywords": [
+    "mbed",
+    "js",
+    "st-network-interface",
+    "st",
+    "mbed-os"
+  ],
+  "author": "ST",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed-zeeshan/mbed-js-st-network-interface/issues"
+  },
+  "homepage": "https://github.com/syed-zeeshan/mbed-js-st-network-interface#readme"
+}
